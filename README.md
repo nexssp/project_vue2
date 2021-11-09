@@ -3,7 +3,11 @@
 This is a Nexss Programmer's vue2 default template project.
 
 ```sh
-npm run dev
+# development
+npm run dev # need before hot
+npm run hot # hot reloading
+
+# production
 npm run production
 ```
 

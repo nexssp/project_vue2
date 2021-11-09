@@ -1,9 +1,10 @@
 {
   "name": "@nexssp/project_vue2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "dev": "mix watch --hot",
+    "hot": "mix watch --hot",
+    "dev": "mix",
     "production": "mix --production"
   },
   "keywords": [],
