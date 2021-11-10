@@ -10,6 +10,9 @@ JavaScript framework_.
 ## Start Project
 
 ```sh
+# install (if you didn't use --install)
+npm install
+
 # development
 npm run dev # need before hot
 npm run hot # hot reloading
