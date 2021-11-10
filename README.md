@@ -1,6 +1,13 @@
 # Nexss Programmer Vue2 Project Template
 
-This is a Nexss Programmer's vue2 default template project.
+This is a Nexss Programmer **Vue2** default template project.
+
+[**Vue**](https://vuejs.org) is _the progressive
+JavaScript framework_.
+
+[**Nexss Programmer**](https://nexss.com) is an _innovative and evolutionary tool_ for anyone who starting their programming career, but also for the professionals. Learn about modern languages and also which are not so popular anymore. Combine various amazing technologies together much easier.
+
+## Start Project
 
 ```sh
 # development
@@ -10,8 +17,6 @@ npm run hot # hot reloading
 # production
 npm run production
 ```
-
-## Laravel mix
 
 For bundling we are using great package for development and bundling Laravel mix:
 
